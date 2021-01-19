@@ -1,0 +1,11 @@
+name,key_value,label,sort_order,condition_value
+ex_list1,1,one,0,
+ex_list1,2,two,1,
+ex_list1,3,three,2,
+ex_list1,4,four,3,
+ex_list1,5,five,4,
+ex_list2,A,Alpha,0,
+ex_list2,B,Beta,1,
+ex_list2,C,Gamma,2,
+ex_list2,D,Delta,3,
+ex_list2,E,Epsilon,4,
